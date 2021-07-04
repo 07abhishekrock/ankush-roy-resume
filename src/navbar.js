@@ -42,32 +42,32 @@ function Navbar() {
         <div className='row'>
             <div className="row seperate_link col-lg-8">
             <div className='col'>
-                <NavLink exact to='/React-Resume/' activeClassName="activelink"  className='link_color'>
+                <NavLink exact to='/ankush-roy-resume/' activeClassName="activelink"  className='link_color'>
                     HOME
                 </NavLink>
             </div>
             <div className='col'>
-                <NavLink exact to='/React-Resume/about' activeClassName="activelink" className='link_color'>
+                <NavLink exact to='/ankush-roy-resume/about' activeClassName="activelink" className='link_color'>
                     ABOUT
                 </NavLink>
             </div>
             <div className='col'>
-                <NavLink exact to='/React-Resume/resume' activeClassName="activelink" className='link_color'>
+                <NavLink exact to='/ankush-roy-resume/resume' activeClassName="activelink" className='link_color'>
                     RESUME
                 </NavLink>
             </div>
             <div className='col'>
-                <NavLink exact to='/React-Resume/certifications' activeClassName="activelink" className='link_color'>
+                <NavLink exact to='/ankush-roy-resume/certifications' activeClassName="activelink" className='link_color'>
                     CERTIFICATIONS
                 </NavLink>
             </div>
             <div className='col'>
-                <NavLink exact to='/React-Resume/projects' activeClassName="activelink" className='link_color'>
+                <NavLink exact to='/ankush-roy-resume/projects' activeClassName="activelink" className='link_color'>
                     PROJECTS
                 </NavLink>
             </div>
             <div className='col'>
-                <NavLink exact to='/React-Resume/contact' activeClassName="activelink" className='link_color'>
+                <NavLink exact to='/ankush-roy-resume/contact' activeClassName="activelink" className='link_color'>
                   CONTACT
                 </NavLink>
             </div>
